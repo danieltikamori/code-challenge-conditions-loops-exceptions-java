@@ -8,6 +8,7 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea/aws.xml
 *.iws
 *.iml
 *.ipr
@@ -37,5 +38,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-.idea/aws.xml
+
 aws.xml
